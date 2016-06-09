@@ -1,0 +1,79 @@
+@font-face {
+  font-family: "Quicksand";
+  src: url("../fonts/Quicksand.otf");
+}
+
+@font-face {
+  font-family: "Quicksand";
+  font-weight: bold;
+  src: url("../fonts/Quicksand_Bold.otf");
+}
+
+@font-face {
+  font-family: "PTSansNarrow";
+  src: url("../fonts/PTN57F.ttf");
+}
+
+body {
+  background-color: #f2f2f2;
+  background-image: url(../images/pw_maze_white.png);
+  font-family: PTSansNarrow, Helvetica, Arial, sans-serif;
+}
+
+header {
+  background-color: #e42e24;
+}
+
+header img {
+  height: 76px;
+}
+
+a {
+  color: #1e6492;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.container {
+  margin: auto;
+  width: 90%;
+  max-width: 960px;
+}
+
+.hero-unit {
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  margin: 74px 0 60px 0;
+  overflow: hidden;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.column p {
+  padding: 0 20px 0 10px;
+}
+
+.column ul {
+  padding-right: 10px;
+}
+
+footer {
+  background: #f2f2f2;
+  border-top: 1px solid #dfdfdf;
+  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+  line-height: 1.6em;
+  padding: 20px 0;
+  margin-top: 40px;
+}
+
+.hide {
+  display: none;
+}
+
+.text-center {
+  text-align: center;
+}
