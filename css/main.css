@@ -61,6 +61,10 @@ a:hover {
   text-align: center;
 }
 
+.product {
+  margin: 2em 0;
+}
+
 .product .image, .product .description {
   width: 49%;
   display: inline-block;
@@ -73,6 +77,14 @@ a:hover {
 .product .description h3 {
   margin: 5px 0 1em 0;
   padding: 0;
+}
+
+.partners {
+  text-align: center;
+}
+
+.partners img {
+  max-height: 150px;
 }
 
 footer {
