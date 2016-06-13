@@ -9,6 +9,7 @@
   src: url("../fonts/Quicksand_Bold.otf");
 }
 
+/* http://paletton.com/#uid=3020u0kqXsCgHAUlFuutvn5xYic */
 
 body {
   font-family: "Helvetica Neue","Helvetica","Arial",sans-serif;
@@ -27,7 +28,9 @@ h2 {
 
 h3 {
   font-size: 2em;
+  color: #73AB0D;
 }
+
 header {
   background-color: #e42e24;
   -webkit-box-shadow: 0px 0px 4px 0px #888;
@@ -39,7 +42,7 @@ header img {
 }
 
 a {
-  color: #1e6492;
+  color: #17818B;
   text-decoration: none;
 }
 
