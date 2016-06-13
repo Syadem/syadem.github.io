@@ -97,6 +97,24 @@ footer {
   font-size: 0.9em;
 }
 
+@media (max-width: 767px) {
+  h2 {
+    font-size: 2em;
+  }
+
+  h3 {
+    font-size: 1.5em;
+  }
+
+  .hero-unit {
+    margin: 34px 0 20px 0;
+  }
+
+  .product .image {
+    display: none;
+  }
+}
+
 .hide {
   display: none;
 }
