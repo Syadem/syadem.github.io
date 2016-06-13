@@ -53,20 +53,26 @@ a:hover {
   text-transform: uppercase;
 }
 
-.introduction {
+.presentation {
   font-size: 1.3em;
 }
 
-.column {
-  padding: 12px;
+.homepage h2 {
+  text-align: center;
 }
 
-.column p {
-  padding: 0 20px 0 10px;
+.product .image, .product .description {
+  width: 49%;
+  display: inline-block;
 }
 
-.column ul {
-  padding-right: 10px;
+.product .description {
+  vertical-align: top;
+}
+
+.product .description h3 {
+  margin: 5px 0 1em 0;
+  padding: 0;
 }
 
 footer {
