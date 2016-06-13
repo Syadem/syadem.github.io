@@ -65,16 +65,7 @@ a:hover {
   margin: 2em 0;
 }
 
-.product .image, .product .description {
-  width: 49%;
-  display: inline-block;
-}
-
-.product .description {
-  vertical-align: top;
-}
-
-.product .description h3 {
+.product h3 {
   margin: 5px 0 1em 0;
   padding: 0;
 }
