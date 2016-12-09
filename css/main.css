@@ -80,8 +80,13 @@ a:hover {
   margin: 5px 0 1em 0;
 }
 
-.partners {
+.partners, .awards {
   text-align: center;
+}
+
+.awards img {
+  height: 79px;
+  margin: 5px 20px;
 }
 
 .partners img {
