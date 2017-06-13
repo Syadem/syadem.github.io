@@ -89,6 +89,10 @@ a:hover {
   margin: 5px 20px;
 }
 
+.partners {
+  margin: 2em 0;
+}
+
 .partners img {
   max-height: 150px;
 }
